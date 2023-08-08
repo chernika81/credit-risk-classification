@@ -28,6 +28,7 @@ ________________________________________________________________________________
 The logistic regression model predicts the healthy loan ('0') with 100% precision, and the high-risk loan ('1') with 87% precision. The accuracy score is 94%.
 
 **. For the model 2:**
+
 The logistic regression model predicts the healthy loan ('0') with 100% precision, and the high-risk loan ('1') with 87% precision. The accuracy score is 99.6%. 
 
 # **Summary**
